@@ -1,0 +1,11 @@
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\bin\Debug\Hesap makine.exe.config
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\bin\Debug\Hesap makine.exe
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\bin\Debug\Hesap makine.pdb
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap makine.csprojAssemblyReference.cache
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap_makine.Form1.resources
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap_makine.Properties.Resources.resources
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap makine.csproj.GenerateResource.cache
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap makine.csproj.CoreCompileInputs.cache
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap makine.exe
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap makine.pdb
+C:\Users\esatl\source\repos\Hesap makine\Hesap makine\obj\Debug\Hesap_makine.Form2.resources
